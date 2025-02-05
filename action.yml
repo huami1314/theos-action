@@ -13,7 +13,7 @@ inputs:
   theos-src:
     description: "Where to clone Theos from (git URL)"
     required: false
-    default: "https://github.com/theos/theos"
+    default: "https://github.com/roothide/theos"
   theos-sdks:
     description: "Where to clone the iOS SDKs from (GitHub repository URL)"
     required: false
